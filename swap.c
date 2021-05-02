@@ -16,3 +16,5 @@ int main(void)
     printf("a is now %i\n", a);
     printf("b is now %i\n", b);
 }
+test1
+test2
